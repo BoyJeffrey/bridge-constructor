@@ -32,8 +32,6 @@ target/
 *.ipr
 *.iml
 *.iws
-out
-gen
 
 # temp ignore
 *.log
